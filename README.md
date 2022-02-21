@@ -22,6 +22,14 @@ dcl start
 
 Any dependencies are installed and then the CLI opens the scene in a new browser tab.
 
+## To iniciate with test network
+
+Open with command line:
+
+```
+dcl start --web3
+```
+
 ## Deploy to Decentraland
 
 If you own any parcels of land in Decentraland, or have permissions to deploy to someone else's, you can publish this project.
